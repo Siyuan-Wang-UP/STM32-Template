@@ -10,4 +10,5 @@
 		1. “Options for target > devices”选项下需要选择芯片型号为“STM32F103C8”.
 		2. “Options for target > C/C++”选项下的STM32宏需要使用“STM32F10X_MD”（不含引号）.
 		3. 工程的启动文件组 “STARTUP”下需要使用文件“startup_stm32f10x_md.s”.
-![](https://github.com/Siyuan-Wang-UP/STM32-Template/blob/main/Picture/%E5%85%B3%E4%BA%8E%E7%A7%BB%E6%A4%8D.png)
+
+![移植项目STM32F103C8T6有关](https://github.com/Siyuan-Wang-UP/STM32-Template/blob/main/Picture/%E7%A7%BB%E6%A4%8D%E6%9C%89%E5%85%B3.png)
